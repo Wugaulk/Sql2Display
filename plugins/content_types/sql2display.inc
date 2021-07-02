@@ -1,7 +1,7 @@
 <?php
 
 $plugin = array(
-  'title' => 'Table and Other Displays for DB Query Results',
+  'title' => 'Sql2Display',
   'description' => 'Display database results in plain text, simple table, json, ul, ol, etc.',
   'single' => TRUE,
   'render callback' => 'table_display_db_content_type_render',

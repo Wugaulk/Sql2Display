@@ -1,5 +1,5 @@
 # Sql2Display
-Sql2Display is a CTools content type plugin that enable programmerd to easily and quickly extract data from database by SQL queries, and display them with quick formats that is easily integrate into frontend js/css frameworks.
+Sql2Display is a CTools content type plugin that enable programmer/admin to easily and quickly extract data from database by SQL queries, and display them with quick formats that is easily integrate into frontend js/css frameworks.
 
 # About Sql2Display
 This module is developed by DaChainrk.io to facilitate quick integration of advanced frontend framework with Drupal Framework.
